@@ -6,6 +6,6 @@ HTML: Markup language used for structuring the content.
 CSS: Stylesheet language used for presentation and layout.
 
 # How to Use
-Clone the repository: git clone https://github.com/your-username/your-project.git
+Clone the repository: git clone https://github.com/n4nikhilofficial/Portfolio.git
 Open index.html in your browser to view the portfolio.
 Feel free to explore and connect! 🌟
